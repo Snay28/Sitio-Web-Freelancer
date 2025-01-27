@@ -19,7 +19,7 @@ html {
 
 .titulo, 
 .contenedor, 
-.formulario {
+.section-formulario {
   scroll-snap-align: start;
   scroll-snap-stop: always;
 }
